@@ -1,0 +1,7 @@
+D:\TAREA\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+D:\TAREA\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+D:\TAREA\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+D:\TAREA\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+D:\TAREA\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+D:\TAREA\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+D:\TAREA\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
